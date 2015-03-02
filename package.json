@@ -1,0 +1,20 @@
+{
+  "name": "simpleHttpServer",
+  "version": "0.0.0",
+  "description": "A node version SimpleHTTPSever like python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple",
+    "Http",
+    "Server"
+  ],
+  "author": "Jiecheng Zhao",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "serve-index": "~1.6.2",
+    "serve-static": "~1.9.1"
+  }
+}
